@@ -63,4 +63,4 @@ entry/src/main/ets/
 ## 开发者
 
 - 项目创建时间：2026-05-27
-- 基于 HarmonyOS 5.0 开发
+- 基于 HarmonyOS 6.0 开发
